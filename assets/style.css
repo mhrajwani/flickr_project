@@ -1,0 +1,53 @@
+html, body {
+    min-height: 100%;
+}
+
+body {
+    background-image: url(./images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+    color:black;
+    margin: 20px; 
+    font-family: "sofia";
+    text-align: center;
+}
+
+.display{
+    margin: auto; 
+}
+
+.footer{
+    width: 25%;
+    margin: 5px auto;
+    text-align: center;
+    border-radius: 25px;
+    border: 1px solid black;
+    background: #f5f5f0;
+    padding: 1px;
+    text-shadow: 1px 1px grey;
+    position: fixed;
+    bottom: 0;
+}
+
+.image_div{
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+#fixed{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color:white;
+}
+
+#submit{
+    background-color: #4CAF50;
+    color:white;
+}
