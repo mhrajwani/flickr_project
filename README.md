@@ -1,3 +1,5 @@
+<img src="/assets/images/demo.gif" alt="DEMO"/>
+
 Flickr Project
 
 CREATED WITH:
