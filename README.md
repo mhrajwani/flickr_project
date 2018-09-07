@@ -1,6 +1,6 @@
-<img src="/assets/images/demo.gif" alt="DEMO"/>
-
 Flickr Project
+
+<img src="/assets/images/demo.gif" alt="DEMO"/>
 
 CREATED WITH:
 
